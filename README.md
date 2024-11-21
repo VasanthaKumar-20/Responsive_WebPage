@@ -34,8 +34,6 @@ project-folder/
     └── images/          # Contains image files used in the project
 ```
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -48,32 +46,7 @@ project-folder/
 
 ---
 
-## ✨ Screenshots
-Include some screenshots here to showcase your project, like the carousel, cards, and navbar. (You can update this section later.)
-
----
-
 ## 📂 Future Enhancements
 - Add a gallery page for more images.
 - Include a blog section for articles related to Mini Cooper.
 - Enhance interactivity with more JavaScript functionalities.
-
----
-
-## 🤝 Contribution
-Feel free to fork the repository and submit pull requests for improvements.
-
----
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
-
-## 🔗 Connect
-- **Email**: [Your Email Here]
-- **GitHub**: [Your GitHub Profile](https://github.com/VasanthaKumar-20)
-
---- 
-
-You can update the **Screenshots** and **Connect** sections with your actual screenshots and contact details.
